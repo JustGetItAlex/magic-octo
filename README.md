@@ -1,6 +1,6 @@
 # Initial words
 
-This is a fork of [Eucalyptus Drop by Matt Jolly](https://gitlab.com/Matt.Jolly/sddm-eucalyptus-drop). Customized to my own configuration and equipped with a Background picture commissioned by [Happy](https://vgen.co/Happi).
+This is a fork of [Eucalyptus Drop by Matt Jolly](https://gitlab.com/Matt.Jolly/sddm-eucalyptus-drop). Customized to my own configuration and equipped with a Background picture commissioned by [Happi](https://vgen.co/Happi).
 
 # Introduction (of the original theme)
 
