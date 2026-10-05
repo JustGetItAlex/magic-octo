@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Magic Octo
+Description=Theme for SDDM based on Sugar Candy
+Author=JGIA
+Copyright=Copyright (C) 2025 JGIA
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=2.0.0
+Website=https://gitlab.com/Matt.Jolly/sddm-eucalyptus-drop
+Screenshot=Previews/regularPreview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=magic-octo
+Theme-API=2.11
+QtVersion=6
