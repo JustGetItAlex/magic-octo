@@ -2,7 +2,7 @@
 
 This is a fork of [Eucalyptus Drop by Matt Jolly](https://gitlab.com/Matt.Jolly/sddm-eucalyptus-drop). Customized to my own configuration and equipped with a Background picture commissioned by [Happy](https://vgen.co/Happi).
 
-# Introduction
+# Introduction (of the original theme)
 
 Eucalyptus Drop is an enhanced fork of SDDM Sugar Candy by Marian Arlt.
 
